@@ -45,9 +45,8 @@ Focus: Backend systems, automation, AI workflows
 ## Connect
 
 - GitHub: [@lohithl1024](https://github.com/lohithl1024)
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your email
-
+- LinkedIn: https://www.linkedin.com/in/lohithl1024/
+- Email: growlohith@gmail.com
 ---
 
 I like building software that does real work, explains what it did, and leaves room for humans to stay in control.
